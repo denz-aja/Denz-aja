@@ -2,7 +2,7 @@
     <img src="https://telegra.ph/file/9ef210561049bdca57f96.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-<iframe src="assets/music/silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
+
 
 ## It'z Me? :
 > * Hallo denz disini
