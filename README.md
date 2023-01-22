@@ -2,6 +2,10 @@
     <img src="https://telegra.ph/file/9ef210561049bdca57f96.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
+    <audio id="player" preload="auto" autoplay loop>
+            <source src="assets/music/loop.mp3" type="audio/mp3">
+    </audio>
+
 ## It'z Me? :
 > * Hallo denz disini
 
