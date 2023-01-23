@@ -1,3 +1,8 @@
+<h1 align="center">Denz Aja</h1>
+<p align="center">
+  <a href="https://github.com/denz-aja"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+</p>
+
 <p align="center">
     <img src="https://telegra.ph/file/9ef210561049bdca57f96.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
