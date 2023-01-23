@@ -1,6 +1,6 @@
-<h1 align="center">WELCOME</h1>
+## Welcome✨
 <p align="center">
-  <a href="https://github.com/denz-aja"><img src="http://readme-typing-svg.herokuapp.com?color=6F6F6F&center=true&vCenter=true&multiline=false&lines=Hi,+Denz+here;nothing+special+from+me;Don't+forget+to+follow+my+github" alt="ʘᴗʘ">
+  <a href="https://github.com/denz-aja"><img src="http://readme-typing-svg.herokuapp.com?color=6F6F6F&center=true&vCenter=true&multiline=false&lines=Hi,+Denz+here+👋;nothing+special+from+me;Don't+forget+to+follow+my+github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
