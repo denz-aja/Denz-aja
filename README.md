@@ -1,6 +1,6 @@
-<h1 align="center">Denz Aja</h1>
+<h1 align="center">WELCOME</h1>
 <p align="center">
-  <a href="https://github.com/denz-aja"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/denz-aja"><img src="http://readme-typing-svg.herokuapp.com?color=6F6F6F&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
