@@ -1,10 +1,10 @@
 <h1 align="center">WELCOME</h1>
 <p align="center">
-  <a href="https://github.com/denz-aja"><img src="http://readme-typing-svg.herokuapp.com?color=6F6F6F&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/denz-aja"><img src="http://readme-typing-svg.herokuapp.com?color=6F6F6F&center=true&vCenter=true&multiline=false&lines=Hi,+Denz+here;nothing+special+from+me;Don't+forget+to+follow+my+github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
-    <img src="https://telegra.ph/file/9ef210561049bdca57f96.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/c5738583eedaafe6e7308.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 
